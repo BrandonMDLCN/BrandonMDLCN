@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/jWTOcH5trbIAAAAC/meow-im-dancing.gif"  />
+
 
 ###
 
@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img align="right" height="150" src="https://media.tenor.com/jWTOcH5trbIAAAAC/meow-im-dancing.gif"  />
 </div>
 
 ###
@@ -41,7 +42,11 @@
 </div>
 
 ###
-
-<br clear="both">
+<br/>
+<br/>
+<div align="center">
+  <h5>Watch my contribution graph get eaten by the snake 🐍</h5>
+  <img height="150" src="https://github.com/BrandonMDLCN/BrandonMDLCN/blob/output/github-contribution-grid-snake-dark.svg"  />
+</div>
 
 ###
