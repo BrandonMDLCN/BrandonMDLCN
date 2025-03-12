@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://github.com/BrandonMDLCN/BrandonMDLCN/blob/main/output/snake.yml" alt="Snake animation" />
-
 ###
